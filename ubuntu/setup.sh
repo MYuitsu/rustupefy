@@ -4,10 +4,10 @@
 # A series of scripts to automagically transform vim into a stunningly beautiful and fast IDE for rust
 
 ##Update the system
-sudo apt-get update
+pkg update
 
 ## Install build-essential
-sudo apt-get install build-essential -y
+pkg install build-essential -y
 
 ## Install vim
 sudo apt-get install vim -y
